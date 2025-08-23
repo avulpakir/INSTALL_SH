@@ -2,7 +2,7 @@
 
 # Update package list and install applications
 sudo apt update
-sudo apt install -y filezilla vlc audacity idle
+sudo apt install -y waterfox filezilla vlc audacity idle
 
 # Install snap applications
 sudo snap install code --classic
